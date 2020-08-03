@@ -1,0 +1,49 @@
+h1 {
+    color: blue;
+    display: flex;
+    font-family: monospace;
+    justify-content: space-evenly;
+    height: auto;
+    width: 25cm;
+}
+
+h2 {
+    color: blue;
+    display: flex;
+    font-family: monospace;
+    justify-content: space-evenly;
+    height: auto;
+    width: 25cm;
+}
+
+h3{
+    color: blue;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    height: auto;
+    width: 25cm;
+}
+
+
+nav {
+    background-color: black ;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    height: auto;
+}
+
+h4 {
+    color: black;
+    justify-content: left;
+    text-align: block;
+    height: auto;
+    width: 10cm;
+}
+
+.imagem {
+    align-content: block;
+    display: flex;
+    justify-content: right;
+}
